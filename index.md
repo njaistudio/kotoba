@@ -1,4 +1,4 @@
-# Welcome to Minna no Nihongo
+# Welcome to Kotoba: JLPT N5-N1 Vocabulary
 
 ## Instructions for deleting an account
 
@@ -6,8 +6,9 @@
 1. Tap on the` Delete account` button
 1. Confirm account deletion
 1. Complete
+![Screenshot_1744452003](https://github.com/user-attachments/assets/dafc259d-7c76-4d7b-85ea-40e78ed0247e)
 
-![Screenshot_1723685291](https://github.com/user-attachments/assets/7f2b5031-0486-4a24-af2f-926ed2e1e3bb)
+
 
 
 ### Support or Contact
